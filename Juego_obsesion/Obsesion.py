@@ -59,8 +59,8 @@ else:
     else:
         codigo_vacio =[]
         while True:
-            print(f"Hay una puerta y una ventana. Al lado de la puerta hay una pantalla para poner una clave y la ventana tiene un vidrio con unos cables al rededor\n Por donde quieres salir: .")       
-            desicionF = int(input(f"{nombre} seleciona una opcion: \n 1. Ventana\n 2. Puerta\n"))
+            print(f"Hay una puerta y una ventana. Al lado de la puerta hay una pantalla para poner una clave y la ventana tiene un vidrio con unos cables al rededor\n Por donde quieres salir: \n 1. Ventana\n 2. Puerta")       
+            desicionF = int(input(f"{nombre} seleciona una opcion: "))
         
             
         
