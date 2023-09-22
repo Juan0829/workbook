@@ -153,3 +153,4 @@ else:
             else:
                 print("Oh no te han descubierto y te han disparado\n FIN DEL JUEGO ")
                 break
+
